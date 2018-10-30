@@ -1,7 +1,7 @@
 # Una ecuacioncita
 `\[
 d_Z\left(2^k\frac{2\ell+1}{2^{n+1}}\right)
-    =\frac12\left(d_Z\Big(2^k\frac{\ell+1}{2^{n}}\Big)+d_Z\left(2^k\frac{\ell}{2^{n}}\right)\right).
+    =\frac12\Bigg(d_Z\Big(2^k\frac{\ell+1}{2^{n}}\Big)+d_Z\left(2^k\frac{\ell}{2^{n}}\right)\Bigg).
 \]`
  
 ---
