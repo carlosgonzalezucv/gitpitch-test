@@ -10,7 +10,8 @@ d_Z\left(2^k\frac{2\ell+1}{2^{n+1}}\right)
 
 `\[
   \begin{equation}
-  \frac{m}{2^{n+1}}F(x) +\Big(1-\frac{m}{2^{n+1}}\Big)F(y)
+  \frac{m}{2^{n+1}}F(x) +\Big(1-\frac{m}{2^{n+1}}\Big)F(y) \\ 
+  \frac{m}{2^{n+1}}F(x) +\Big(1-\frac{m}{2^{n+1}}\Big)F(y) \\ 
   \end{equation}
 \]`
 
