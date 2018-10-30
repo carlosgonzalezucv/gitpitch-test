@@ -1,4 +1,4 @@
-# Una ecuacioncita
+### Una ecuacioncita
 `\[
 d_Z\left(2^k\frac{2\ell+1}{2^{n+1}}\right)
     =\frac12\Bigg(d_Z\Big(2^k\frac{\ell+1}{2^{n}}\Big)+d_Z\left(2^k\frac{\ell}{2^{n}}\right)\Bigg).
@@ -6,11 +6,13 @@ d_Z\left(2^k\frac{2\ell+1}{2^{n+1}}\right)
  
 ---
 
-### Flux Design
+### Otra
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+`\[
+  \begin{equation}
+   E = mc^2
+  \end{equation}
+\]`
 
 ---
 
