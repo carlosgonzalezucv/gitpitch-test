@@ -2,4 +2,4 @@
 
 ---
 
-![Logo](../../assets/img/onetip_arch_generic.PNG)
+![Logo](assets/onetip_arch_generic.PNG)
