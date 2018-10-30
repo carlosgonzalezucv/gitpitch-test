@@ -1,6 +1,6 @@
 ---
-Primera seccion
+
+#Arquitectura generica
 
 ---
 
-Otra seccion
