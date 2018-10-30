@@ -1,6 +1,4 @@
----
-
-#Arquitectura generica
+# Arquitectura generica
 
 ---
 
