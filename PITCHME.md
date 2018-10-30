@@ -1,7 +1,7 @@
 # Una ecuacioncita
 `\[
-\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
- \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+d_Z\left(2^k\frac{2\ell+1}{2^{n+1}}\right)
+    =\frac12\left(d_\Z\Big(2^k\frac{\ell+1}{2^{n}}\Big)+d_\Z\left(2^k\frac{\ell}{2^{n}}\right)\right).
 \]`
  
 ---
