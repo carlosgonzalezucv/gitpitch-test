@@ -14,7 +14,7 @@ An application architecture for React
 
 # Esta es una nueva lamina
 
-### Esto es un subtitulito
+### Esto es un subtitulito aqui estoy en otra rama
 
 ---
 
