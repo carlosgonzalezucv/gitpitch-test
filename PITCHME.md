@@ -1,7 +1,18 @@
 # Una ecuacioncita
 `\[
-\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
- \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\frac{m}{2^{n+1}}F(x)&+\Big(1-\frac{m}{2^{n+1}}\Big)F(y)
+   + \sum_{k=0}^{n}2 d_{\Z}\Big(2^k \frac{m}{2^{n+1}}\Big)A\Big(\frac{x-y}{2^k}\Big) \\
+  &= \frac{2\ell+1}{2^{n+1}}F(x)+\Big(1-\frac{2\ell+1}{2^{n+1}}\Big)F(y)
+   + \sum_{k=0}^{n}2 d_{\Z}\Big(2^k \frac{2\ell+1}{2^{n+1}}\Big)A\Big(\frac{x-y}{2^k}\Big) \\
+  &\subseteq \frac12\Big(\frac{\ell+1}{2^{n}}F(x)+\Big(1-\frac{\ell+1}{2^{n}}\Big)F(y)\Big) 
+     +\frac12\Big(\frac{\ell}{2^{n}}F(x)+\Big(1-\frac{\ell}{2^{n}}\Big)F(y)\Big)\\
+  &\qquad+\sum_{k=0}^{n-1}\Big(d_\Z\Big(2^k\frac{\ell+1}{2^{n}}\Big)+d_\Z\Big(2^k\frac{\ell}{2^{n}}\Big)\Big)
+             A\Big(\frac{x-y}{2^k}\Big) + A\Big(\frac{x-y}{2^n}\Big) \\
+  &= \frac12\Big(\frac{\ell+1}{2^{n}}F(x)+\Big(1-\frac{\ell+1}{2^{n}}\Big)F(y)
+     +\sum_{k=0}^{n-1}2 d_\Z\Big(2^k\frac{\ell+1}{2^{n}}\Big)A\Big(\frac{x-y}{2^k}\Big)\Big)\\
+  &\qquad +\frac12\Big(\frac{\ell}{2^{n}}F(x)+\Big(1-\frac{\ell}{2^{n}}\Big)F(y)
+   + \sum_{k=0}^{n-1}2d_\Z\Big(2^k\frac{\ell}{2^{n}}\Big)A\Big(\frac{x-y}{2^k}\Big)\Big)
+   + A\Big(\frac{x-y}{2^n}\Big). 
 \]`
   
 ---
