@@ -7,7 +7,7 @@ d_Z\left(2^k\frac{2\ell+1}{2^{n+1}}\right)
 ---
 
 ### Otra
-@size[10pt](
+@size[3pt](
   `\[
     \begin{equation}
     \frac{m}{2^{n+1}}F(x) +\Big(1-\frac{m}{2^{n+1}}\Big)F(y) + \sum_{k=0}^{n}2 d_{Z}\Big(2^k \frac{m}{2^{n+1}}\Big)A\Big(\frac{x-y}{2^k}\Big) \\
