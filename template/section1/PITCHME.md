@@ -2,4 +2,4 @@
 
 ---
 
-![Logo](assets/img/gCloud_Flexipos_Onetip_Generico.png)
+![Logo](assets/img/gCloud_Flexipos_Onetip_Generico.svg)
